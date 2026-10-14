@@ -116,9 +116,9 @@ These limitations are retained to make the analysis transparent and to distingui
 
 ## 7. Project Materials
 
-This public repository presents the project's purpose, selected findings, and methodology.
+The public repository includes this README and the executive summary, providing an overview of the analysis, key findings, and methodology.
 
-The detailed Excel analysis workbook and full tax case study are maintained separately and can be shared with recruiters and hiring managers who wish to review the underlying calculations, reconciliations, validation checks, and supporting analysis.
+**The complete Excel analysis workbook and detailed tax case study are maintained separately and are available to recruiters and hiring managers upon request.**
 
 ## 8. Sources
 
