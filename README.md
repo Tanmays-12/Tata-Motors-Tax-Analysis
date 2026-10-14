@@ -142,6 +142,4 @@ Public availability of this README does not grant permission to copy the author'
 
 **Tanmay Krishna Sattiraju**
 
-This project demonstrates an interest in financial statement analysis, tax disclosures, data validation, and evidence-based financial interpretation.
 
-Recruiters and hiring managers may contact the author to request a walkthrough or additional project documentation.
